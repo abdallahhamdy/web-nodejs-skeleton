@@ -1,3 +1,0 @@
-file content1
-file content2
-file content3
